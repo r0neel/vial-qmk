@@ -1,0 +1,6 @@
+/* SPDX-License-Identifier: GPL-2.0-or-later */
+
+#pragma once
+
+#define VIAL_KEYBOARD_UID {0xD2, 0x14, 0xE5, 0x17, 0xAA, 0x1D, 0xF9, 0x7A}
+
